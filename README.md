@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## License
 
-cd-uFSS is distributed under MIT unless the header specifies another license.
+Co-GAN is distributed under MIT unless the header specifies another license.
 
 ```
 Copyright (c) 2019-present Nan Fang.
