@@ -1,8 +1,9 @@
 # Contrastive Learning of Style Representations for Unsupervised Facial Sketch Synthesis(Co-GAN)
 
-Paper Explanation: [Link to Zhihu]
+
 
 ```
+Paper Explanation: [Link to Zhihu]
 Author: Nan Fang (fangnan97@qq.com)
 ```
 
