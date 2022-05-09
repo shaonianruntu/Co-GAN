@@ -1,13 +1,7 @@
 # Contrastive Learning of Style Representations for Unsupervised Facial Sketch Synthesis(Co-GAN)
 
-
-
-Dissertation Submitted to Hangzhou Dianzi University for the Degree of Master.
-
 ```
-Candidate: Nan Fang
-Entrance Time: September, 2019
-Graduation Time: June, 2022
+Author: Nan Fang (fangnan97@qq.com)
 ```
 
 Hoping can make some contributions to the development of **Unsupervised Image Translation** and **Deep Learning**.
